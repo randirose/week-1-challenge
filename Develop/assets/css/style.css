@@ -8,7 +8,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Class selectors */
+/* Class selectors for header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -61,6 +61,7 @@ p {
     background-position: center;
 }
 
+/* Class selectors for positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,7 +78,7 @@ p {
     margin-left: 20px;
 }
 
-/* Class selectors for aside or sidebar */
+/* Class selectors for aside */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,6 +138,7 @@ p {
     max-width: 150px;
 }
 
+/* Class selectors for main content */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* Class selectors for footer */
 .footer {
     padding: 30px;
     clear: both;
