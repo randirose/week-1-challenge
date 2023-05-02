@@ -31,9 +31,10 @@ Provided with starter code, we were asked to refactor the code to meet accessibi
 
 ## Usage
 
-You can visit the GitHub repo here: https://github.com/randirose/week-1-challenge, and the live URL on GitHub Pages here: https://randirose.github.io/week-1-challenge
+You can visit the GitHub repo here: https://github.com/randirose/week-1-challenge
+and the live URL on GitHub Pages here: https://randirose.github.io/week-1-challenge
 
-See screenshot of what live page should look like below:
+See a screenshot of what the live page should look like below:
   
     ![MockUp Screenshot](Develop/assets/images/01-html-css-git-homework-demo.png)
   
