@@ -1,4 +1,4 @@
-# Code Refactor Starter Code - Week 1 Challenge
+# Code Refactor - Week 1 Challenge
 
 ## User Story
 
